@@ -15,6 +15,7 @@ Configurations for my perfect OS X
 
 # Applications
 - Poolside FM (Music): http://poolside.fm
+- Hermes (Pandora Client): http://hermesapp.org
 - Timout (stand up reminders): http://www.dejal.com/timeout/
 - GifRocket (quicktime to gif): http://www.gifrocket.com
 - CocoaRestClient (test rest apis): http://mmattozzi.github.io/cocoa-rest-client/
