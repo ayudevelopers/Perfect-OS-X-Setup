@@ -1,6 +1,9 @@
 # Perfect-OS-X-Setup
 Configurations for my perfect OS X 
 
+# XCode
+- XCode themes: https://github.com/hdoria/xcode-themes
+
 # Sublime Text 3
 - Material Theme: https://github.com/equinusocio/material-theme
 - Material Theme Appbar: https://github.com/equinusocio/material-theme-appbar
@@ -9,3 +12,10 @@ Configurations for my perfect OS X
 # Vim Schemes
 - Xoria256: http://www.vim.org/scripts/script.php?script_id=2140
 - Bubblegum 256: https://github.com/baskerville/bubblegum
+
+# Applications
+- Poolside FM (Music): http://poolside.fm
+- Timout (stand up reminders): http://www.dejal.com/timeout/
+- GifRocket (quicktime to gif): http://www.gifrocket.com
+- CocoaRestClient (test rest apis): http://mmattozzi.github.io/cocoa-rest-client/
+- AppCleaner (remove apps cleanly): http://freemacsoft.net/appcleaner/
