@@ -20,3 +20,4 @@ Configurations for my perfect OS X
 - GifRocket (quicktime to gif): http://www.gifrocket.com
 - CocoaRestClient (test rest apis): http://mmattozzi.github.io/cocoa-rest-client/
 - AppCleaner (remove apps cleanly): http://freemacsoft.net/appcleaner/
+- F.lux (display correction based on time/location): https://justgetflux.com
