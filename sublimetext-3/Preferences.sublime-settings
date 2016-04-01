@@ -41,4 +41,5 @@
 	"detect_indentation": true,
 	"word_wrap": "true",
 	"scroll_past_end": true,
+	"trim_trailing_white_space_on_save": true,
 }
