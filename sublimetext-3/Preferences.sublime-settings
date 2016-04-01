@@ -37,5 +37,8 @@
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"detect_indentation": true,
+	"word_wrap": "true",
+	"scroll_past_end": true,
 }
