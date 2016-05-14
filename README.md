@@ -22,3 +22,4 @@ Configurations for my perfect OS X
 - CocoaRestClient (test rest apis): http://mmattozzi.github.io/cocoa-rest-client/
 - AppCleaner (remove apps cleanly): http://freemacsoft.net/appcleaner/
 - F.lux (display correction based on time/location): https://justgetflux.com
+- Winebottler - http://winebottler.kronenberg.org
