@@ -1,5 +1,5 @@
 # Scripts
-Below I'll list scripts that are useful to have on hand
+Below lists scripts that have been useful through my use of OSX.
 
 #### FLAC to MP3
 OSX and iTunes doesn't support FLAC so let's convert them to MP3.
