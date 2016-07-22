@@ -23,3 +23,4 @@ Configurations for my perfect OS X
 - AppCleaner (remove apps cleanly): http://freemacsoft.net/appcleaner/
 - F.lux (display correction based on time/location): https://justgetflux.com
 - Winebottler - http://winebottler.kronenberg.org
+- Etcher (ISO to USB/SD) - http://www.etcher.io
