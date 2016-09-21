@@ -12,7 +12,7 @@ Then run in selected folder with .flac files:
 for f in *.flac; do ffmpeg -i "$f" -aq 1 "${f%flac}mp3"; done
 ````
 
-# ./bash_profile
+#### ./bash_profile
 ````
 # NDS/GBA Dev Paths
 export DEVKITPRO=/Users/jdriselvato/devkitPro
