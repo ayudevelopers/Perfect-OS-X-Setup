@@ -1,0 +1,11 @@
+prefix=/Users/mike/Documents/darwine/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Fontconfig
+Description: Font configuration and customization library
+Version: 2.8.0
+Libs: -L${libdir} -lfontconfig
+Libs.private:  -lexpat -L/Users/mike/Documents/darwine/usr/lib -lfreetype -lz -liconv
+Cflags: -I${includedir}
