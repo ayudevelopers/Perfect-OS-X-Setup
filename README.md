@@ -1,5 +1,5 @@
-# Perfect-OS-X-Setup
-Configurations for my perfect OS X 
+# Perfect-MacOS-Setup
+Configurations for my perfect MacOS 
 
 # XCode
 - XCode themes: https://github.com/hdoria/xcode-themes
@@ -22,24 +22,31 @@ Configurations for my perfect OS X
 - CocoaRestClient (test rest apis): http://mmattozzi.github.io/cocoa-rest-client/
 - AppCleaner (remove apps cleanly): http://freemacsoft.net/appcleaner/
 - F.lux (display correction based on time/location): https://justgetflux.com
-- Winebottler: http://winebottler.kronenberg.org
 - Etcher (ISO to USB/SD): http://www.etcher.io
 - Calibre (Ebook management): https://calibre-ebook.com
-- Celtx Script (script writing):
-- Discord (chat):
-- FreeCAD (CAD viewer):
-- Leela (Weiqi Bot):
-- LimeChat (chat): 
-- OpenEmu (Emulator): 
-- Pixen (Pixel Art): 
-- Porting Kit (Wine helper): 
-- Postman (REST):
-- Sabaki (Weiqi board): 
-- Tiled (Game dev tool):
-- 爱奇艺 (Video): 
-- 腾讯视频 (Video):
-- PiPifier (Video popout): 
+- Celtx Script (script writing): https://www.celtx.com/index.html
+- Discord (chat): https://discordapp.com/
+- FreeCAD (CAD viewer): https://www.freecadweb.org/
+- LimeChat (chat): http://limechat.net/mac/
+- Postman (REST Client): https://www.getpostman.com
+
+# Game Dev
+- Tiled (Game dev tool): http://www.mapeditor.org
+- Pixen (Pixel Art): https://pixenapp.com
 
 # Go (Baduk/Weiqi) Software
-- sabaki (SGF viewer): http://sabaki.yichuanshen.de
+- Sabaki (SGF viewer): http://sabaki.yichuanshen.de
 - CGoban (KGS Client): https://www.gokgs.com/download.jsp
+- Leela (Weiqi Bot): https://www.sjeng.org/leela.html
+
+# Video Players
+- 爱奇艺 (Video): http://www.iqiyi.com
+- 腾讯视频 (Video): https://v.qq.com
+
+# Video Games
+- OpenEmu (Emulator): http://openemu.org/
+- Porting Kit (Wine helper): http://portingkit.com
+- Winebottler: http://winebottler.kronenberg.org
+
+# Safari Plugin 
+- PiPifier (Video popout): https://github.com/arnoappenzeller/PiPifier
