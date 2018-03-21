@@ -12,6 +12,14 @@ Then run in selected folder with .flac files:
 for f in *.flac; do ffmpeg -i "$f" -aq 1 "${f%flac}mp3"; done
 ````
 
+#### FW Video downloader
+````
+ffmpeg -y -v warning -loglevel debug -i "any.m3u8" -vcodec copy -c copy -f mpegts out.ts
+
+ffmpeg -i out.ts -acodec copy -vcodec copy out.mp4
+
+````
+
 #### ./bash_profile
 ````
 # NDS/GBA Dev Paths
