@@ -31,3 +31,8 @@ export PATH=/usr/local/bin:$PATH
 # Lines of code in XCode Project based on Swift files
 alias xcode-count='find . -name "*.swift" -print0 | xargs -0 wc -l'
 ````
+
+#### Raw to jpeg
+````
+for i in *.CR2; do sips -s format jpeg $i --out "${i%.*}.jpg"; done
+````
